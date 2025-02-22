@@ -2,7 +2,7 @@
 
 This project is a React application that demonstrates CRUD operations with user data using Axios to interact with a mock API. The application allows users to view, add, edit, and delete user records from a mock API.
 
-PLEASE CLICK HERE TO VISIT : https://user-handbook.netlify.app/ListPages
+PLEASE CLICK HERE TO VISIT : [https://user-handbook.netlify.app/ListPages](https://user-handbook.netlify.app/)
 
 1. All Users - displays all the available users.
    
