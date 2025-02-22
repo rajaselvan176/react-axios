@@ -2,15 +2,17 @@
 
 This project is a React application that demonstrates CRUD operations with user data using Axios to interact with a mock API. The application allows users to view, add, edit, and delete user records from a mock API.
 
-1. User interface of the CRUD application showcases its layout and design elements
+PLEASE CLICK HERE TO VISIT : https://user-handbook.netlify.app/ListPages
+
+1. All Users - displays all the available users.
    
 ![UI preview](public/mock/Demo_1.png)
 
 ---
 
-2. Edit interface enables CRUD operations, allowing users to modify fetched data.
+2. **Add-User :** Edit interface enables CRUD operations, allowing users to modify fetched data.
    
-![UI preview](public/mock/Demo_2.png)
+![UI preview](public/mock/User Portal_Add User.png)
 
 ---
 
@@ -42,9 +44,9 @@ This project is a React application that demonstrates CRUD operations with user 
 
 2. **Navigate to the project directory:**
    ```bash
-   cd React-Axios-CRUD-Operation
+   cd react-axios
 
-3. **cd react-shopping-cart:**
+3. **cd react-axios:**
    ```bash
    npm install
 
@@ -63,11 +65,5 @@ This project is a React application that demonstrates CRUD operations with user 
 
 This React application showcases how to perform CRUD operations using Axios to interact with a mock API. It emphasizes a clean, responsive design and an intuitive user experience.
 
----
-## Contact
-
-For any inquiries or feedback, please contact:
-- Email: rajkumaranbu192@gmail.com
-- LinkedIn: [Rajkumar A](https://www.linkedin.com/in/rajkumar-cse/)
 
 
