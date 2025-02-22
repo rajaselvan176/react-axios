@@ -6,13 +6,13 @@ PLEASE CLICK HERE TO VISIT : [https://user-handbook.netlify.app/ListPages](https
 
 1. All Users - displays all the available users.
    
-![UI preview](public/mock/Demo_1.png)
+![UI preview](public/mock/all_users.png)
 
 ---
 
 2. **Add-User :** Edit interface enables CRUD operations, allowing users to modify fetched data.
    
-![UI preview](public/mock/User Portal_Add User.png)
+![UI preview](public/mock/add_user.png)
 
 ---
 
